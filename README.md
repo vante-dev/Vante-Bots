@@ -8,35 +8,35 @@ Lisanslı bir ürün satın alarak, botun düzgün çalışması için gereken t
 
 ### Uygulama Komutları
 <details>
-
+  <img src="">
 <details>
 
 ### Kurucu Komutları
 <details>
-
+  <img src="">
 <details>
 
 ### Yetkili Komutları
 <details>
-
+  <img src="">
 <details>
 
 ### Stat Komutları
 <details>
-
+  <img src="">
 <details>
 
 ### Ceza Komutları
 <details>
-
+  <img src="">
 <details>
 
 ### Kullanıcı Komutları
 <details>
-
+  <img src="">
 <details>
 
 ### Guard Görselleri
 <details>
-
+  <img src="">
 <details>
