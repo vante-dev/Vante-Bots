@@ -8,7 +8,10 @@ Lisanslı bir ürün satın alarak, botun düzgün çalışması için gereken t
 
 ### Uygulama Komutları
 <details>
-  <img src="">
+  <img width="500" height="500" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/fa1ee5bd-1677-4a1a-9f7b-4d1b17ba89b3">
+  <img width="500" height="500" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/f0683a92-7a72-48d6-99c4-9bbfe3fd0e10">
+  <img width="500" height="500" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/c39f35af-9049-4749-9e7b-0315304c4c24">
+  <img width="435" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/be47a621-51e2-4bf8-b331-d04b7a53953e">
 </details>
 
 ### Kurucu Komutları
