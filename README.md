@@ -16,6 +16,11 @@ Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle i
   <img width="300"  alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/be47a621-51e2-4bf8-b331-d04b7a53953e">
 </details>
 
+### Kullanıcı Komutları
+<details>
+  <img src="">
+</details>
+
 ### Kurucu Komutları
 <details>
   <img src="">
@@ -36,9 +41,9 @@ Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle i
   <img src="">
 </details>
 
-### Kullanıcı Komutları
+### Bot Görselleri
 <details>
-  <img src="">
+  ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/b31f63da-f970-4cae-9131-30de8239b852)
 </details>
 
 ### Guard Görselleri
