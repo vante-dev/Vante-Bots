@@ -21,6 +21,7 @@ Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle i
 <img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4ae99a8e-4384-48fe-9361-de1f5ef6ec4d">
 <img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b72b171b-1eff-4f44-bd3b-b0f0012cdaac">
 <img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/9679cb62-5710-411d-95e9-919fd9ee3b90">
+<img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/a8c008e8-3d62-4297-857b-6f906fe83358">
 </details>
 
 ### Kurucu Komutları
