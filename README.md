@@ -5,6 +5,8 @@ PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu botlar, s
 Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle iletişime geçebilirsiniz. Discord kullanıcı adım: [@q7x](https://vante.dev/discord)
 İlginiz için teşekkür ederim!
 
+- Bazı kategorilerde resimlerin olmamasının sebebi, botu sıfırdan oluşturuyor olmam ve her yaptığımda paylaşacağım
+  
 ### Uygulama Komutları
 <details>
   <img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/33c58150-68d2-465c-824a-8d94830f56ec">
