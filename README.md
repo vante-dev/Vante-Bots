@@ -47,6 +47,7 @@ Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle i
 ### Bot Görselleri
 <details>
   ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/b31f63da-f970-4cae-9131-30de8239b852)
+  ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/3618bfd1-da62-43b0-9d4d-87aca33905df)
 </details>
 
 ### Guard Görselleri
