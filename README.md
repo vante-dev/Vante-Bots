@@ -18,10 +18,6 @@ Copyright © 2023 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev).
 
 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) Lisansı altında dağıtılmaktadır. Daha fazla bilgi için 'LİSANS'a bakın.
 
-# 🔥 Desteğinizi gösterin
-
-Bu proje size yardımcı olduysa bir ⭐️ verin!
-
 # 📞 Iletişim
 
 -   Mail: hi@vante.dev
