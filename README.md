@@ -1,12 +1,35 @@
-# Vante Bots
+<p align="center">
+  <h3 align="center">VANTE V14 BOTS</h3>
 
-Merhaba,
-PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu botlar, sunucunuzun yönetimini kolaylaştıracak ve kullanıcı deneyimini artıracak bir dizi özellik içerir.
-Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle iletişime geçebilirsiniz. Discord kullanıcı adım: [@q7x](https://vante.dev/discord)
-İlginiz için teşekkür ederim!
+  <p align="center">
+    <br />
+    <a href="https://discord.gg/luppux"><strong>Destek Sunucusu »</strong></a>
+    <br />
+    <a href="https://vante.dev/">Hesaplarım</a>
+  </p>
+</p>
 
-- Bazı kategorilerde resimlerin olmamasının sebebi, botu sıfırdan oluşturuyor olmam ve her yaptığımda paylaşacağım
-  
+# ✨ Proje Hakkında Bilgi
+Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu botlar, sunucunuzun yönetimini kolaylaştıracak ve kullanıcı deneyimini artıracak bir dizi özellik içerir. Eğer ilgileniyorsanız,          detayları konuşmak için Discord üzerinden benimle iletişime geçebilirsiniz. Discord kullanıcı adım: [@q7x](https://vante.dev/discord) İlginiz için teşekkür ederim!
+
+# 📄 Lisans
+
+Copyright © 2023 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev).
+
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) Lisansı altında dağıtılmaktadır. Daha fazla bilgi için 'LİSANS'a bakın.
+
+# 🔥 Desteğinizi gösterin
+
+Bu proje size yardımcı olduysa bir ⭐️ verin!
+
+# 📞 Iletişim
+
+-   Mail: hi@vante.dev
+-   Discord: https://discord.gg/luppux
+-   Instagram: https://www.instagram.com/kaanxsrd/
+
+# 📷 Görüntüler
+
 ### Uygulama Komutları
 <details>
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/7ee94db9-7200-4d8e-a4f5-d76c4a226001">
