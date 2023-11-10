@@ -9,19 +9,16 @@ Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle i
   
 ### Uygulama Komutları
 <details>
-  <img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/33c58150-68d2-465c-824a-8d94830f56ec">
-  <img width="300"  alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/fa1ee5bd-1677-4a1a-9f7b-4d1b17ba89b3">
-  <img width="300"  alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/f0683a92-7a72-48d6-99c4-9bbfe3fd0e10">
-  <img width="300"  alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/c39f35af-9049-4749-9e7b-0315304c4c24">
-  <img width="300"  alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/be47a621-51e2-4bf8-b331-d04b7a53953e">
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/7ee94db9-7200-4d8e-a4f5-d76c4a226001">
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/11e748dc-f154-4542-a3b0-1a0e74389cfd">
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/aa77b859-f4f1-4908-8d6f-08f464a78a7b">
+
 </details>
 
 ### Kullanıcı Komutları
 <details>
-<img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4ae99a8e-4384-48fe-9361-de1f5ef6ec4d">
-<img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b72b171b-1eff-4f44-bd3b-b0f0012cdaac">
-<img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/9679cb62-5710-411d-95e9-919fd9ee3b90">
-<img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/a8c008e8-3d62-4297-857b-6f906fe83358">
+<img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d817424b-aa0b-4217-9a1c-45d50046b027">
+<img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/cbfb9111-57d6-4133-bac9-3cbf85256786">
 </details>
 
 ### Kurucu Komutları
@@ -46,8 +43,9 @@ Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle i
 
 ### Bot Görselleri
 <details>
-  <img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b31f63da-f970-4cae-9131-30de8239b852">
-  <img width="300" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/3618bfd1-da62-43b0-9d4d-87aca33905df">
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/0de4be0c-943d-4551-86e5-81c8aaf9bd1e">
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/bc264ffe-be6d-4bca-a254-b41e68d2ca41">
+
 </details>
 
 ### Guard Görselleri
