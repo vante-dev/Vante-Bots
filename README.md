@@ -42,7 +42,7 @@ Copyright © 2023 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev).
 
 ### Kurucu Komutları
 <details>
-  <img src="">
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/fbd07deb-010e-4e28-b4a8-cd6b1461de8a">
 </details>
 
 ### Yetkili Komutları
