@@ -44,6 +44,8 @@ Copyright © 2023 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev).
 <details>
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/fbd07deb-010e-4e28-b4a8-cd6b1461de8a">
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/1c3214a2-c103-4642-a05e-c13c463ada05">
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/787bd3ad-59b5-44fe-96fb-00257195133c">
+
 
 </details>
 
