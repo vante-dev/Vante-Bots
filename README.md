@@ -76,6 +76,8 @@ Copyright © 2023 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev).
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/a7258e8d-6d6e-41e0-a656-379c1d6b1610">
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/7575c674-8c50-4958-8be7-81b6b258b5a3">
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b9dd35c9-404e-4678-80a7-db8b0a96b201">
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/0860964e-e93e-4305-94b7-4a6a2438d104">
+
 </details>
 
 ### Guard Görselleri
