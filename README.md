@@ -50,7 +50,7 @@ Copyright © 2023 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev).
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/07ee0581-83a2-48f9-ae55-62c51e75be53">
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/5109a554-ee54-4749-bfc1-e3f32828b837">
   <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/e2772aa5-ca2f-4669-ad5e-b0a48bf490f2">
-
+  <img width="450" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/e822ac4a-3e76-4f58-9861-3b606417e2a7">
 </details>
 
 ### Yetkili Komutları
