@@ -3,7 +3,7 @@
 
   <p align="center">
     <br />
-    <a href="https://discord.gg/luppux"><strong>Destek Sunucusu »</strong></a>
+    <a href="https://discord.gg/luppux"><strong>Luppux Development</strong></a>
   </p>
 </p>
 
