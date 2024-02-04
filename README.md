@@ -8,7 +8,7 @@
 </p>
 
 ## ✨ Proje Hakkında Bilgi
-Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu botlar, sunucunuzun yönetimini kolaylaştıracak ve kullanıcı deneyimini artıracak bir dizi özellik içerir. Eğer ilgileniyorsanız,          detayları konuşmak için Discord üzerinden benimle iletişime geçebilirsiniz. Discord kullanıcı adım: [@kaanxsrd](https://vante.dev/discord) İlginiz için teşekkür ederim!
+Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu paylaşacağım. Bot geliştirme süreci beni sıktı ve devam etmek istemiyorum. Alternatif olarak, botu edinmek istiyorsanız (satın almak), detayları konuşmak için lütfen Discord üzerinden benimle iletişime geçin. Discord kullanıcı adım: [@kaanxsrd](https://discord.com/users/155545251866607616) İlginiz için teşekkür ederim!
 
 ## 🍭 Görüntüler
 
