@@ -1,4 +1,4 @@
-import { ActivityType, Application } from 'discord.js';
+import { ActivityType } from 'discord.js';
 
 // Doldurmanız gereken tek şeyler bunlardır.
 
