@@ -42,6 +42,5 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 ## 🐻‍❄️ Author & Lisence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/155545251866607616?hideActivity=true)](https://discord.com/users/155545251866607616)
 
 Telif Hakkı © 2024 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev). Bu proje [GNU Genel Kamu Lisansı v3.0](https://github.com/vante-dev/Vante-Bots/blob/main/LICENSE) ile lisanslanmıştır.
