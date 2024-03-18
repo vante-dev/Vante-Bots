@@ -18,6 +18,8 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
   | Top Command (General)                                                                                       |
   | ----------------------------------------------------------------------------------------------------------- | 
   | <img src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d3f1523f-4436-4fe9-adbb-293beab93cb5" /> |
+  
+  | ----------------------------------------------------------------------------------------------------------- | 
   | Top Command (General)                                                                                       |
   | <img src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d3f1523f-4436-4fe9-adbb-293beab93cb5" /> |
 
