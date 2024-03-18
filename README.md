@@ -17,27 +17,34 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Top Command (General)  | ![Top Command Image](https://github.com/vante-dev/Vante-Bots/assets/136744983/d3f1523f-4436-4fe9-adbb-293beab93cb5) |
-| New Command (General)  | ![New Command Image](https://github.com/vante-dev/Vante-Bots/assets/136744983/d3f1523f-4436-4fe9-adbb-293beab93cb5) |
-
+| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
+| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
+| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
+| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
 
 </details>
 
 <details>
   <summary>Take Task Command (Taked)</summary>
 
-  | Task Command                                    | Top Command (Spesific)                           | Weekly Stat Command                              |
-  | ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-  | <img src="https://vante.dev/img/512x254.png" /> | <img src="https://vante.dev/img/512x254.png" />  | <img src="https://vante.dev/img/512x254.png" />  |
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
+| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
+| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
+| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
 
 </details>
 
 <details>
   <summary>Message Level Command</summary>
 
-  | Voice Level Command                             | Ship                                            | Streamer Menu                                   |
-  | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-  | <img src="https://vante.dev/img/512x254.png" /> | <img src="https://vante.dev/img/512x254.png" /> | <img src="https://vante.dev/img/512x254.png" /> |
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
+| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
+| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
+| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
 
 </details>
 
