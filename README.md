@@ -13,11 +13,14 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 ## 🍭 Görüntüler
 
 <details>
-  <summary>General Command</summary>
+  <summary>Kullanıcı Komutları</summary>
 
-  | Top Command (General)                            | Point Command                                   | Stat Command                                    | Take Task Command (No Take)                     |
-  | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-  | <img src="https://vante.dev/img/512x254.png" />  | <img src="https://vante.dev/img/512x254.png" /> | <img src="https://vante.dev/img/512x254.png" /> | <img src="https://vante.dev/img/512x254.png" /> |
+  | Top Command (General)                                                                                       |
+  | ----------------------------------------------------------------------------------------------------------- | 
+  | <img src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d3f1523f-4436-4fe9-adbb-293beab93cb5" /> |
+  | Top Command (General)                                                                                       |
+  | ----------------------------------------------------------------------------------------------------------- | 
+  | <img src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d3f1523f-4436-4fe9-adbb-293beab93cb5" /> |
 
 </details>
 
