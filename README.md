@@ -17,10 +17,10 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
-| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
-| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
-| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
+| General Kategorisi | ![General Category Image](https://github.com/vante-dev/Vante-Bots/assets/136744983/18c27be5-02c1-4c16-8059-769ff288a23a) |
+| Profil | ![Profil Command Image](https://github.com/vante-dev/Vante-Bots/assets/136744983/50502610-242f-4f78-89be-6df7a241d9e7) |
+| Spotify | ![Spotify Command Image](https://github.com/vante-dev/Vante-Bots/assets/136744983/27845ab3-f7bf-4200-8f3c-6af6c4e3e67d) |
+| Ship | ![Ship Command Image ](https://github.com/vante-dev/Vante-Bots/assets/136744983/64e1f8b3-1b82-43d3-82b7-ca9d3352ffa5) |
 
 </details>
 
