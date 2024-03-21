@@ -42,14 +42,14 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 </details>
 
 <details>
-  <summary>Message Level Command</summary>
+  <summary>Advanced Commands</summary>
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
-| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
-| Top Command (General)  | ![Top Command Image](https://vante.dev/img/512x254.png) |
-| Tio Command (General)  | ![New Command Image](https://vante.dev/img/512x254.png) |
+| Advanced Kategorisi | ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/f13416b2-dfb4-4a7c-b8df-0aeffed5bd61) |
+| Say | ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/312828c2-a33c-451c-b6c6-218073db6c30) |
+| Sesli Say | ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/13a2ca04-c748-4db9-b844-784e94b8f523) |
+| Ban List | ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/a5cb9fac-e20f-40c7-b9e7-bc18a4ee6573) |
 
 </details>
 
