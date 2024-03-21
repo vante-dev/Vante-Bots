@@ -1,4 +1,4 @@
-![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/a0eb57a2-b434-44f5-9539-4bacb0eff74c)<p align="center">
+<p align="center">
   <h3 align="center">VANTE V14 BOTS</h3>
 
   <p align="center">
