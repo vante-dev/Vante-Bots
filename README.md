@@ -112,7 +112,7 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 | ------------------------------------------------------------------------------------------------- |
 | ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/e9a4dac4-a835-4131-afd2-795beb185625) |
 | ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/7da952d5-3838-4752-8e91-278d558d42a2) |
-| ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/0796da6c-29d9-4986-a7b8-277197b61b38) |
+| ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/7ac6234f-06fd-4d93-9507-d8c1e50351f4) |
 | ![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/9e03f433-8bc3-4830-8e26-dedd567cc483) |
 
 </details>
