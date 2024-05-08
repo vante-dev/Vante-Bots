@@ -51,6 +51,34 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 | Say Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/dba1600c-d79e-4de5-8256-d39d4ff102cd"> |
 </details>
 
+<details>
+  <summary>Ekonomi Komutları</summary>
+  
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Ekonomi Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b62ec314-115d-42cc-8ddb-bcf4b4230231"> |
+| Blackjack Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/720791a7-c9d0-445d-bb02-722961723b26"> |
+</details>
+
+<details>
+  <summary>Stat Komutları</summary>
+
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Stat Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6bb990e0-4798-4617-88e6-9588a23bdc81"> |
+| Detay Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/cd8fe935-4217-493a-9745-55089ee2a33e0"> |
+| Stat Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/99a54911-a7c2-4e2d-ad31-17fdad193081"> |
+| Stat Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/dbdc41ce-5aaa-4a87-b0ab-ab16aa0c43f9"> |
+| Invite Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b4c0efe2-2080-4a63-b01a-db8813f5e142"> |
+| Invite Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/27942869-72d2-415a-87dd-0f073edeeedf"> |
+| Invite Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/27942869-72d2-415a-87dd-0f073edeeedf"> |
+| Top Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4079ca42-6560-46bb-b1cc-019b8a66eb73"> |
+| Level Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6b0544d3-6f33-40c8-9d53-f9747f276db8"> |
+| Level Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/26da1574-4c38-4d82-94d9-d203ee42b721"> |
+</details>
+
+
+
 
 ## 🐻‍❄️ Author & Lisence
 
