@@ -32,8 +32,8 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 | Kurucu Kategorisi | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6a2d86b6-ba28-4cb1-99c2-791178b582c2"> |
 | Setup Komutu | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/605d5e06-46f4-47a2-86e9-946880f29063"> |
 | Setup Komutu | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/77588816-103e-43e0-b80b-1b78d5fa6bb0"> |
-| Leaderboard Komutu | <img height="500" width="800" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/2d7cb335-8af0-40cf-a832-06ac66710c4b"> |
-| Örnek Leaderboard | <img height="700" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d850af54-95c5-4a65-9021-41c11240dfda"> |
+| Leaderboard Komutu | <img  alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/2d7cb335-8af0-40cf-a832-06ac66710c4b"> |
+| Örnek Leaderboard | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d850af54-95c5-4a65-9021-41c11240dfda"> |
 </details>
 
 
