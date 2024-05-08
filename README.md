@@ -17,7 +17,7 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| General Kategorisi | <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/26736fe8-ce1b-4f37-aa32-bc066e5dee69"> |
+| General Kategorisi | <img height="450" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/33259515-e6e9-4627-b466-714103a8cf88"> |
 
 </details>
 
