@@ -14,7 +14,6 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 <details>
   <summary>Kullanıcı Komutları</summary>
-![image](https://github.com/vante-dev/Vante-Bots/assets/136744983/d850af54-95c5-4a65-9021-41c11240dfda)
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -26,6 +25,7 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 <details>
   <summary>Kurucu Komutları</summary>
+  
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Kurucu Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6a2d86b6-ba28-4cb1-99c2-791178b582c2"> |
