@@ -17,10 +17,10 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| General Kategorisi | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/33259515-e6e9-4627-b466-714103a8cf88"> |
-| Profil Komutu | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/e356cfd3-107a-4182-8a5b-c25cdd95c169"> |
-| Kullanıcı Komutu | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/c8406188-a580-4ba9-a6ec-a699ffbcfce5"> |
-| Ship Komutu | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/141c0439-e758-44f8-af0b-07112c97de1a"> |
+| General Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/33259515-e6e9-4627-b466-714103a8cf88"> |
+| Profil Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/e356cfd3-107a-4182-8a5b-c25cdd95c169"> |
+| Kullanıcı Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/c8406188-a580-4ba9-a6ec-a699ffbcfce5"> |
+| Ship Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/141c0439-e758-44f8-af0b-07112c97de1a"> |
 </details>
 
 <details>
@@ -75,6 +75,18 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 | Top Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4079ca42-6560-46bb-b1cc-019b8a66eb73"> |
 | Level Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6b0544d3-6f33-40c8-9d53-f9747f276db8"> |
 | Level Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/26da1574-4c38-4d82-94d9-d203ee42b721"> |
+| Sunucu Stat Komutu (BOT SAHIPLERINE OZEL) | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4e305103-f0aa-482c-a316-728be22c714d"> |
+</details>
+
+<details>
+  <summary>Extra Görseller</summary>
+
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Bot Yönetim Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b41dc7ab-062b-4b37-8cae-2e6d6fe03001"> |
+| Context Komutlalrı | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6147cae2-b35e-47c6-9e93-6a41b413680b"> |
+| Log Kanalları | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/95938210-575d-40fa-8a0b-30747c588bf1"> |
+
 </details>
 
 
