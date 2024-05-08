@@ -26,7 +26,7 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 <details>
   <summary>Kurucu Komutları</summary>
-
+  
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Kurucu Kategorisi | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6a2d86b6-ba28-4cb1-99c2-791178b582c2"> |
@@ -34,6 +34,12 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 | Setup Komutu | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/77588816-103e-43e0-b80b-1b78d5fa6bb0"> |
 | Leaderboard Komutu | <img  alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/2d7cb335-8af0-40cf-a832-06ac66710c4b"> |
 | Örnek Leaderboard | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d850af54-95c5-4a65-9021-41c11240dfda"> |
+| Member Panel | <img height="500" width="600"  alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d850af54-95c5-4a65-9021-41c11240dfda"> |
+| AI Regıster Panel | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4d34fbb7-9a89-44a0-a50d-3aa0716db9c9"> |
+| Role Panel | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/aad3d1a7-f2fd-472a-aa5d-5455c37cb809"> |
+| Secretroom Panel | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b601fcd1-c359-485e-aab5-ca6eb09e92e5"> |
+| Kısayollar Panel | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/62374583-7f18-43df-848b-65fa785ad001"> |
+| Tweet Panel | <img height="500" width="600" alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d71db41e-aefd-408b-bd14-dffcc8f52686"> |
 </details>
 
 
