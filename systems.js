@@ -1,39 +1,34 @@
 import { ActivityType } from 'discord.js';
 
-// Doldurmanız gereken tek şeyler bunlardır.
-
-const system = {
+export const System = {
     serverID: '',
-    mongoURL: '',
-    owners: [],
-    prefix: [],
+    mongooseURI: '',
+    roots: [],
 
     Presence: {
         Status: 'online',
         Type: ActivityType.Playing,
-        Message: [],
+        Message: ['Créated by Vante', 'Vante Was here ❤️', 'Vante ❤️ Discord'],
     },
 
+    Prefix: [
+        '.',
+    ],
+
     Moderation: {
-        Main: '',
-        Stats: '',
+        Administrator: '',
         Controller: '',
+        Statistics: '',
     },
 
     Security: {
-        Watcher: '',
-        Backuper: '',
-        Protector: '',
-        vanityAuth: '',
-        ownerAuth: '',
-        
+        Guardian: '',
+        VanityAuth: '',
         Backups: [],
     },
 
     Welcome: {
         Tokens: [],
-        Channel: [],
-    },
-}
-
-export default system;
+        Channels: [],
+    }
+};
