@@ -71,7 +71,6 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 | Stat Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/dbdc41ce-5aaa-4a87-b0ab-ab16aa0c43f9"> |
 | Invite Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b4c0efe2-2080-4a63-b01a-db8813f5e142"> |
 | Invite Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/27942869-72d2-415a-87dd-0f073edeeedf"> |
-| Invite Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/27942869-72d2-415a-87dd-0f073edeeedf"> |
 | Top Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4079ca42-6560-46bb-b1cc-019b8a66eb73"> |
 | Level Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6b0544d3-6f33-40c8-9d53-f9747f276db8"> |
 | Level Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/26da1574-4c38-4d82-94d9-d203ee42b721"> |
