@@ -85,7 +85,7 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 | Bot Yönetim Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b41dc7ab-062b-4b37-8cae-2e6d6fe03001"> |
 | Context Komutlalrı | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6147cae2-b35e-47c6-9e93-6a41b413680b"> |
 | Log Kanalları | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/95938210-575d-40fa-8a0b-30747c588bf1"> |
-
+| Bot Dosyaları | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/536e8158-f32c-4c36-912c-1e05be1eb67b"> |
 </details>
 
 
