@@ -25,7 +25,7 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 
 <details>
   <summary>Kurucu Komutları</summary>
-  
+
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Kurucu Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6a2d86b6-ba28-4cb1-99c2-791178b582c2"> |
@@ -39,6 +39,8 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu p
 | Secretroom Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b601fcd1-c359-485e-aab5-ca6eb09e92e5"> |
 | Kısayollar Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/62374583-7f18-43df-848b-65fa785ad001"> |
 | Tweet Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d71db41e-aefd-408b-bd14-dffcc8f52686"> |
+| Streamer Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/fef45a16-5643-4eff-a788-e9e3bd3bd7f0"> |
+| Streamer Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/ae34ab7d-91a6-47d5-bbb7-a2e0309344ba"> |
 </details>
 
 <details>
