@@ -1,99 +1,282 @@
 <p align="center">
   <h3 align="center">VANTE V14 BOTS</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://discord.gg/luppux"><strong>Luppux Development</strong></a>
-  </p>
 </p>
 
 ## ✨ Proje Hakkında Bilgi
-Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu paylaşacağım. Bot geliştirme süreci beni sıktı ve devam etmek istemiyorum. Alternatif olarak, botu edinmek istiyorsanız (satın almak), detayları konuşmak için lütfen Discord üzerinden benimle iletişime geçin. Discord kullanıcı adım: [@kaanxsrd](https://discord.com/users/155545251866607616) İlginiz için teşekkür ederim!
 
-## 🍭 Görüntüler
+Merhaba, Bu projeye 150 yıldız (star) geldiğinde, botu paylaşacağım. Bot geliştirme süreci beni sıktı ve devam etmek istemiyorum. Alternatif olarak, botu edinmek istiyorsanız (satın almak), detayları konuşmak için lütfen Discord üzerinden benimle iletişime geçin. Discord kullanıcı adım: [@vantedev](https://discord.com/users/1205649213539749958) İlginiz için teşekkür ederim!
 
+## ✨ Özellikler
+
+- ⚙️ **Tamamen Özelleştirilebilir:** Kapsamlı özelleştirme seçenekleriyle Vante Bots'u tercihlerinize göre uyarlayın.
+- 🌆 **Kontrol Paneli:** Kontrol panelimiz aracılığıyla bot ayarlarını zahmetsizce yönetin.
+- 📝 **Kolay Yapılandırma:** Kurulumu çocuk oyuncağı haline getiren kolaylaştırılmış yapılandırma süreci.
+- 💯 **150+ Komut:** Sunucunuzun deneyimini zenginleştirmek için 150'den fazla çok yönlü komuta erişin.
+- 📚 **Kolay Barındırma:** Vante Bots'u sunucularınızda zahmetsizce barındırın ve 7/24 çevrimiçi tutun.
+
+## 🖥️ Hosting
+
+> [!IMPORTANT]
+> **Bu proje yeni başlayanlar için değildir.** Node.js, Prisma, Discord.js veya bu projede kullanılan diğer teknolojilere aşina değilseniz Vante Botsu kendiniz kurmamalısınız!
+
+### 📝 Kurulum
+
+- **[🤖 Bot kurulum eğitimi](/docs/bot/README.md)**
+- **[🔩 Dashboard kurulum eğitimi](/docs/dashboard/README.md)**
+- **[📝 Database kurulum eğitimi](/docs/database/README.md)**
+
+## ⚙️ Sistem Gereksinimleri
+
+Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından emin olun:
+
+- `PostgreSQL 14x` veya üzeri
+- `Node.js 18x` veya üzeri
+- `Linux x64¹` (Herhangi biri)
+- `~512MB` RAM (minimum)
+- `~3GB` sabit disk alanı (minimum)
+
+> [!NOTE]
+> 1: Debian tabanlı dağıtımlar önerilir, Dashboard Windows ve MacOS'ta da çalışabilir ancak önermiyorum.
+
+## 🍭 Komutlar ve Görüntüler
 <details>
   <summary>Kullanıcı Komutları</summary>
 
-| Komut                  | Resim                                                                                                  |
+  - **afk** `<sebep>` → AFK moduna geçersiniz ve sebep belirtirsiniz.
+  - **avatar** `<Kullanıcı>` → Belirtilen kullanıcının profil fotoğrafını gösterir.
+  - **banner** `<Kullanıcı>` → Belirtilen kullanıcının banner görüntüsünü gösterir.
+  - **booster** `<Nick>` → Sunucu için yeni bir booster ismi belirler.
+  - **cihaz** `<Kullanıcı>` → Kullanıcının hangi cihazdan bağlandığını gösterir.
+  - **git** `<Kullanıcı>` → Belirtilen kullanıcıya hızlıca gidersiniz.
+  - **yardım** `[komut]` → Belirtilen komut hakkında yardım bilgisi sağlar.
+  - **kb** `<Kullanıcı>` → Belirtilen kullanıcı hakkında kısa bilgi verir.
+  - **çek** `<Kullanıcı>` → Belirtilen kullanıcıyı bulunduğunuz ses kanalına çekersiniz.
+  - **ship** `[Kullanıcı]` → İki kullanıcı arasında uyum testi yapar.
+  - **spotify** `<Kullanıcı>` → Kullanıcının Spotify dinleme bilgisini gösterir.
+  - **nerede** `<Kullanıcı>` → Belirtilen kullanıcının hangi kanalda olduğunu gösterir.
+  - **arkadaşlarım** → Sunucudaki arkadaşlarınızı listeler.
+  - **invite** `<Kullanıcı>` → Belirtilen kullanıcının davetlerini gösterir.
+  - **rstat** `<Rol>` → Belirtilen roldeki üyelerin istatistiklerini gösterir.
+  - **stat** `[Kullanıcı]` → Belirtilen kullanıcının istatistiklerini gösterir.
+  - **top** → Sunucudaki mesaj/ses/yayın/kamera/davet/register sıralamalarını gösterir
+
+| Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| General Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/33259515-e6e9-4627-b466-714103a8cf88"> |
-| Profil Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/e356cfd3-107a-4182-8a5b-c25cdd95c169"> |
-| Kullanıcı Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/c8406188-a580-4ba9-a6ec-a699ffbcfce5"> |
-| Ship Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/141c0439-e758-44f8-af0b-07112c97de1a"> |
+| **spotify**            | ![image](https://github.com/user-attachments/assets/4eddb05f-661b-4fb9-9ea2-2b8faecc7093)              |
+| **ship**               | ![image](https://github.com/user-attachments/assets/e301b9bf-3458-4532-aa36-d4fd7bfffddd)              |
+| **ship ertu**          | ![image](https://github.com/user-attachments/assets/348a010d-6b8c-440d-8868-846400818284)              |
+| **stat**               | ![image](https://github.com/user-attachments/assets/1ae205ea-15cd-43ae-9da5-98ab582dfab7)              |
+| **rstat**              | ![image](https://github.com/user-attachments/assets/e027b696-ad65-469b-bfa1-6e39372b4e48)              |
+| **invite**             | ![image](https://github.com/user-attachments/assets/eac522c1-a7af-4b3d-be00-1b97a18a36dc)              |
+| **arkadaşlarım**       | ![image](https://github.com/user-attachments/assets/e62a860f-b3f6-4679-be3c-f5a7900f9963)              |
+| **top**                | ![image](https://github.com/user-attachments/assets/3d3b6483-91fe-4d3b-bd17-759bc92d11d8)              |
+
+</details>
+
+<details>
+  <summary>Moderasyon Komutları</summary>
+
+  - **aktifcezalar** `<@kullanıcı>` → Belirtilen kullanıcının aktif cezalarını gösterir.
+  - **banbilgi** `<kullanıcı>` → Kullanıcının ban bilgilerini gösterir.
+  - **SicilTemizle** `<@kullanıcı>` → Belirtilen kullanıcının sicilini temizler.
+  - **sicil** `<@kullanıcı>` → Kullanıcının geçmiş cezalarını görüntüler.
+  - **etkinlik-cezalı** `<@Üye/ID> [süre] [sebep]` → Üyeyi etkinliklerden men eder.
+  - **reklam** `[kullanıcı]` → Kullanıcıyı reklam yaptığı için cezalandırır.
+  - **ban** `<kullanıcı> [sebep]` → Belirtilen kullanıcıyı sunucudan banlar.
+  - **mute** `<kullanıcı> [süre] [sebep]` → Kullanıcıyı süreli olarak sessize alır.
+  - **forceban** `<kullanıcı> [sebep]` → Kullanıcıyı zorunlu olarak sunucudan banlar.
+  - **jail** `<kullanıcı> [süre] [sebep]` → Kullanıcıyı belirtilen süre boyunca cezalıya atar.
+  - **stream-cezalı** `<@Üye/ID> [süre] [sebep]` → Üyeyi yayın yapmaktan men eder.
+  - **vmute** `<kullanıcı> [süre] [sebep]` → Kullanıcıyı sesli kanallarda sessize alır.
+  - **af** `<kullanıcı>` → Kullanıcıyı AF moduna alır.
+  - **uyarı** `@kullanıcı` → Kullanıcıya uyarı verir.
+
+| Komut                  | Görsel                                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| **af**                 | ![image](https://github.com/user-attachments/assets/8e2c7e52-aed7-460a-8741-2f9df0a8723b)              |
+| **aktifcezalar**       | ![image](https://github.com/user-attachments/assets/6898a2f9-c79d-4773-bfe6-3325f9da0223)              |
+| **Sicil**              | ![image](https://github.com/user-attachments/assets/a7e2d4b4-c6e7-4c2c-b5e6-ecb335156b4b)              |
+| **Sicil Extra**        | ![image](https://github.com/user-attachments/assets/cbb4a0a2-673f-4cd1-98d6-a8bdbe73f467)              |
+| **Ceza Text**          | ![image](https://github.com/user-attachments/assets/4058330c-3378-46ff-8e0b-d552c5ef18b2)              |
+| **Ceza Log**           | ![image](https://github.com/user-attachments/assets/f6f36186-f678-4bff-95d3-948ef4fbdf44)              |
+| **Dm Log**             | ![image](https://github.com/user-attachments/assets/4a2fe8ce-88b9-48d1-b47b-f792462ecdc0)              |
+| **Bitiş Log**          | ![image](https://github.com/user-attachments/assets/6790f7dd-fb30-4d92-9198-3bae315feb6f)              |
+
+</details>
+
+<details>
+  <summary>Kayıt Komutları</summary>
+
+  - **cinsiyet** `<Kullanıcı>` → Belirtilen kullanıcının cinsiyetini ayarlar.
+  - **isim** `<Kullanıcı> <İsim> <Yaş>` → Kullanıcının ismini ve yaşını değiştirir.
+  - **isimler** `<@Üye/ID>` → Kullanıcının geçmiş isimlerini listeler.
+  - **teyitlerim** `<@Üye/ID>` → Belirtilen kullanıcının kayıt teyitlerini gösterir.
+  - **register** `<Kullanıcı/ID> <İsim> <Yaş>` → Kullanıcıyı sunucuda kayıt eder.
+  - **ks** `<Kullanıcı/ID> [sebep]` → Kullanıcıyı kayıtsız yapar.
+  - **unsuspect** `<Kullanıcı/ID>` → Kullanıcının şüpheli rolünü kaldırır.
+
+| Komut                  | Görsel                                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Hoşgeldin Mesajı**   | ![image](https://github.com/user-attachments/assets/5ba5065c-b9bd-49ab-82ca-5993baffe25c)              |
+| **Kayıt Komutu**       | ![image](https://github.com/user-attachments/assets/e593c21d-f21d-4ad0-8937-04bba01c9c61)              |
+| **Extra**              | ![image](https://github.com/user-attachments/assets/d9df5cea-f758-4a18-90e3-238c96767f47)              |
+| **İsimler**            | ![image](https://github.com/user-attachments/assets/9adf1c62-2f43-486b-8ee0-5e2385aa8181)              |
+| **teyitlerim**         | ![image](https://github.com/user-attachments/assets/71c3445b-37b6-44af-b1b7-71d52dcab1cf)              |
+
+</details>
+
+<details>
+  <summary>Gelişmiş Yetkili Komutları</summary>
+
+  - **muteall** → Sunucudaki tüm kullanıcıları sessize alır.
+  - **transport** `<menüden kanal seç>` → Kullanıcıları seçilen kanala taşır.
+  - **banlist** → Sunucudaki banlanan kullanıcıların listesini gösterir.
+  - **sil** `[kullanıcı id] <mesaj sayısı>` → Belirtilen kullanıcının belirli sayıda mesajını siler.
+  - **dağıt** → Rol veya ödül dağıtımı yapar.
+  - **emojiekle** `<emoji> <isim>` → Yeni bir emoji ekler ve isimlendirir.
+  - **giveaway** `<süre (10m)> <kazanan sayısı (1)> <ödül>` → Çekiliş başlatır.
+  - **gsil** `<çekiliş mesaj id>` → Belirtilen çekilişi siler.
+  - **gedit** `<çekiliş mesaj id> <süre (10m)> <kazanan sayısı (1)> <ödül>` → Mevcut bir çekilişi düzenler.
+  - **grerol** → Çekilişte yeniden kazanan belirler.
+  - **say** → Sunucudaki kullanıcı sayısını gösterir.
+  - **lock** → Kanalı kilitler ve mesaj gönderimini kapatır.
+  - **roldenetim** `<rol>` → Belirtilen rolün denetimini yapar.
+  - **rollog** `<kullanıcı>` → Kullanıcının rol geçmişini gösterir.
+  - **rol** `<kullanıcı>` → Kullanıcıya belirli bir rol verir veya rolünü alır.
+  - **snipe** `[kanal/kullanıcı]` → Silinen son mesajı görüntüler.
+  - **ysay** → Sunucudaki yetkililerin sayısını gösterir.
+  - **taşı** `<kullanıcı>` → Kullanıcıyı başka bir kanala taşır.
+  - **vlog** `<kullanıcı>` → Kullanıcının ses kanalı geçmişini görüntüler.
+
+| Komut                  | Görsel                                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Giveaway**           | ![image](https://github.com/user-attachments/assets/82835634-5c0a-4c84-b497-a293b0a62300)              |
+| **say** (canlı)        | ![image](https://github.com/user-attachments/assets/b51ddb52-6b45-4c6e-8a28-bbbc91be2cb3)              |
+| **roldenetim**         | ![image](https://github.com/user-attachments/assets/c95d58af-94d9-4a93-ba3e-aa08c913549c)              |
+| **rol**                | ![image](https://github.com/user-attachments/assets/3e14ff83-c578-4af3-92fb-414458709817)              |
+| **vlog**               | ![image](https://github.com/user-attachments/assets/5d821570-9a0f-4532-a3ea-9a76c287ac8f)              |
+
+</details>
+
+<details>
+  <summary>Yetkili / Görev Komutları</summary>
+
+  - **rozet** → Yetkilinin rozetini görüntüler.
+  - **mazeret** `<@kullanıcı> <süre> <sebep>` → Belirtilen kullanıcı için mazeret kaydı oluşturur.
+  - **not** → Yetkiliye bir not ekler.
+  - **oryantasyon** `<Yetkili>` → Yeni yetkililer için oryantasyon başlatır.
+  - **puan** `[kullanıcı]` → Kullanıcının puanını görüntüler veya değiştirir.
+  - **return** `<Kullanıcı>` → Görevine dönmesi için kullanıcıyı geri çağırır.
+  - **sorunçöz** `[kullanıcı]` → Belirtilen kullanıcının sorununu çözmek için görev başlatır.
+  - **yetkililerim** → Yetkili yaptıgınız kullanıcıların listesini görüntüler.
+  - **ybilgi** `<@kullanıcı>` → Belirtilen yetkili hakkında bilgi sağlar.
+  - **taglı** `<@kullanıcı>` → Kullanıcıyı taglı rolüne ekler.
+  - **taglılarım** → Yetkili olarak tagladığınız kullanıcıları listeler.
+  - **yt** `<@kullanıcı>` → Belirtilen kullanıcıyı yetkili yapar veya yetkiliyse yetkisini yükseltir/düşürür.
+
+| Komut                  | Görsel                                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Sorumluluk Paneli**  | ![image](https://github.com/user-attachments/assets/17010369-8b72-4ccc-8527-157fee5574f8)              |
+| **Görev Paneli**       | ![image](https://github.com/user-attachments/assets/38dff932-b6bc-4c31-b31c-8f400dbec90a)              |
+| **Görev Seçme**        | ![image](https://github.com/user-attachments/assets/dea26fd7-66b9-4a44-b577-d9250729e609)              |
+| **Rozet**              | ![image](https://github.com/user-attachments/assets/897e221a-323e-4ddd-8203-f4f338816ca2)              |
+| **Puan** (1. Sayfa)    | ![image](https://github.com/user-attachments/assets/2423258d-efce-4570-9664-9acf9836468c)              |
+| **Puan** (2. Sayfa)    | ![image](https://github.com/user-attachments/assets/e5e1bbc2-641a-480c-a156-934270e3a7eb)              |
+
 </details>
 
 <details>
   <summary>Kurucu Komutları</summary>
 
-| Komut                  | Resim                                                                                                  |
-| ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Kurucu Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6a2d86b6-ba28-4cb1-99c2-791178b582c2"> |
-| Setup Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/605d5e06-46f4-47a2-86e9-946880f29063"> |
-| Setup Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/77588816-103e-43e0-b80b-1b78d5fa6bb0"> |
-| Leaderboard Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/2d7cb335-8af0-40cf-a832-06ac66710c4b"> |
-| Örnek Leaderboard | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d850af54-95c5-4a65-9021-41c11240dfda"> |
-| Member Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6c162026-5e4d-482f-a6a9-ff22c3b1dae4"> |
-| AI Regıster Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4d34fbb7-9a89-44a0-a50d-3aa0716db9c9"> |
-| Role Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/aad3d1a7-f2fd-472a-aa5d-5455c37cb809"> |
-| Secretroom Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b601fcd1-c359-485e-aab5-ca6eb09e92e5"> |
-| Kısayollar Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/62374583-7f18-43df-848b-65fa785ad001"> |
-| Tweet Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d71db41e-aefd-408b-bd14-dffcc8f52686"> |
-| Streamer Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/fef45a16-5643-4eff-a788-e9e3bd3bd7f0"> |
-| Streamer Panel | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/ae34ab7d-91a6-47d5-bbb7-a2e0309344ba"> |
+  - **bonus** → Yetkiliye bonus puan verir veya görüntüler.
+  - **özelkomut** → Sunucuya özel bir komut ekler veya düzenler.
+  - **otorol** `<menüden işlem seçin>` → Sunucu için otomatik rol verme ayarlamaları yapar.
+  - **toplantı** → Sunucu için toplantı başlatır.
+  - **fastlogin** → Sunucuda panel acar bu paneli kullananlar bot hesap olmadığını doğrulayıp sunucuda gerekli rollerini alabilirler
+  - **secretroom** → Sunucuda özel oda panelini açar.
+  - **leaderboard** → Sunucudaki sıralamayı görüntüler.
+  - **memberpanel** → Üye yönetim panelini açar.
+  - **kısayollar** → Sunucu kısayollarını gösterir.
+  - **streamerpanel** → Yayıncı yönetim panelini açar.
+  - **görevpanel** → Görev yönetim panelini açar.
+  - **ayarlar** → Sunucu komut ayarlarını yönetir.
+  - **setup** → Sunucuyu kurarsınız.
+  - **ekip** → Ekip yönetim işlemlerini gerçekleştirir.
+  - **yaz** `<yazılacak şey>` → Belirtilen mesajı yazar.
+
+| Komut                    | Görsel                                                                                                 |
+| ------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Otorol**               | ![image](https://github.com/user-attachments/assets/42a20f46-b6ef-47cf-8dcc-1492427e9ce5)              |
+| **Fastlogin**            | ![image](https://github.com/user-attachments/assets/dd1160ce-e051-48bb-ad4f-fd56952d09f7)              |
+| **Leaderboard**          | ![image](https://github.com/user-attachments/assets/deb61cb2-25aa-4d86-8b63-c3894c62bce4)              |
+| **Memberpanel**          | ![image](https://github.com/user-attachments/assets/e8484dae-26b0-4f21-85d7-1c499d0964ff)              |
+| **Kısayollar**           | ![image](https://github.com/user-attachments/assets/ab6793a6-7b85-44d2-90ac-6d226d1f1224)              |
+| **Streamerpanel**        | ![image](https://github.com/user-attachments/assets/88f377c9-8ff9-4279-b472-7461e07abce5)              |
+| **Görevpanel**           | ![image](https://github.com/user-attachments/assets/b1e176af-99ad-4f89-a431-9593a2af1516)              |
+| **Ayarlar**              | ![image](https://github.com/user-attachments/assets/24bb25b2-d56d-405b-b81f-9027274d3be7)              |
+| **Ayarlar Seçim**        | ![image](https://github.com/user-attachments/assets/129d0857-4f65-4543-b5ce-0c9ce86d89ff)              |
+| **Setup**                | ![image](https://github.com/user-attachments/assets/ae0e8daa-6838-484f-ba54-624758eefd70)              |
+| **Secretroom**           | ![image](https://github.com/user-attachments/assets/5e4b8069-e504-4d79-b69b-16f2f81ee8f1)              |
+| **Secretroom** (Yönetim) | ![image](https://github.com/user-attachments/assets/df24f47d-9aa1-4770-9740-7c3596e7e07e)              |
+
 </details>
 
 <details>
-  <summary>Yetkili Komutları</summary>
+  <summary>Sunucu Sistemleri Hakkında Bilgilendirme</summary>
 
-| Komut                  | Resim                                                                                                  |
-| ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Yetkili Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/961aef72-d792-489b-8d15-99e14af17774"> |
-| Çekiliş Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/5fda9467-0db6-42d8-ab58-10b7ce02ac34"> |
-| Say Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/d20a6804-b767-43cf-b3e0-a11ff923c18c"> |
-</details>
+  **Sunucunuzun verimliliğini ve kullanıcı deneyimini artırmak için bir dizi gelişmiş sistem devreye alınmıştır. İşte bu sistemler hakkında detaylı bilgiler:**
 
-<details>
-  <summary>Ekonomi Komutları</summary>
+  - **Üye Kayıt Sistemi**: Sunucuya yeni katılan üyelerin hızlı ve sorunsuz bir şekilde kaydolmasını sağlar. Kullanıcıların sisteme dahil edilmesi bu süreçle yönetilir.
   
-| Komut                  | Resim                                                                                                  |
-| ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Ekonomi Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b62ec314-115d-42cc-8ddb-bcf4b4230231"> |
-| Blackjack Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/720791a7-c9d0-445d-bb02-722961723b26"> |
+  - **İsim Zorunluluğu**: Üyelerin kayıt olurken gerçek isimlerini girmelerini zorunlu hale getirir. Bu sayede sunucuda düzen ve güven sağlanır.
+  
+  - **Yaş Doğrulama**: Üyeler, sunucuya kaydolurken yaşlarını belirtmek zorundadır. Bu sistem, yaş sınırlarını denetleyerek sunucunun hedef kitlesine uygun üyelerin kabul edilmesini sağlar.
+
+  - **Etiketli Üye Alımı**: Sunucuya katılmak için belirli bir etikete sahip olma zorunluluğu getirir. Bu, sunucunun belirli bir topluluk veya rol grubu için özelleştirilmesine olanak tanır.
+  
+  - **Otomatik İsim Düzenleme**: Yeni katılan üyelerin isimlerini, sunucunun kurallarına ve standartlarına uygun olarak otomatik düzenler. Sunucu içinde bir isim standardı sağlar.
+  
+  - **Yaş Sınırı Uygulaması**: Minimum yaş sınırının altındaki üyeleri belirleyerek onlara uygun yaptırımlar uygulayan bir sistemdir. Bu, sunucuda istenmeyen davranışları azaltır.
+
+  - **Otomatik Ceza Sistemi**: Üyelerin belirli sayıda uyarı alması durumunda otomatik olarak cezalandırılmasını sağlar. Moderasyon yükünü azaltan bu sistem, cezaların adil bir şekilde dağıtılmasını garanti eder.
+  
+  - **Otomatik Kayıt**: Daha önce kayıt olmuş üyeleri sunucuya yeniden katıldıklarında otomatik olarak tanır ve kaydeder. Kullanıcıların tekrar kayıt olma zorunluluğunu ortadan kaldırır.
+
+  - **Alternatif Ceza Alanı (Underworld)**: Üyeleri yasaklama yerine "Underworld" adlı alternatif bir ceza alanına gönderir. Bu alan, yasaklama öncesi son bir uyarı niteliği taşır.
+  
+  - **Görsel İstatistikler**: Üyelerin istatistiklerini çekici ve etkileyici görsellerle sunar. Sunucu içinde başarıları vurgulamak ve üyeleri motive etmek için harika bir sistemdir.
+  
+  - **Buttonlu İstatistikler**: Üyelerin istatistiklerini interaktif butonlar aracılığıyla sunar. Kullanıcı dostu bir arayüzle kolayca bilgiye erişimi sağlar.
+
+  - **Görsel Sıralamalar**: Sunucu içindeki en iyi performans gösteren üyeleri görsel sıralamalarla gösterir. Bu, rekabeti teşvik eden motive edici bir sistemdir.
+  
+  - **Avatarlı Sıralama**: Görsel sıralamalara ek olarak, üyelerin profil fotoğraflarını da gösterir. Daha kişiselleştirilmiş ve görsel açıdan zengin bir sıralama sunar.
+
+  - **İltifat Sistemi**: Aktif üyeleri motive edici mesajlarla ödüllendirir. Sunucu içindeki pozitif enerjiyi artırmaya yönelik bir sistemdir.
+  
+  - **Oy Hatırlatıcı**: Üyelere, sunucuyu desteklemek için oy kullanmalarını nazik bir şekilde hatırlatan bir sistemdir. Bu sayede topluluğun oy etkinliği artar.
+  
+  - **Kademeli Uyarı Rolleri**: Üyelerin aldığı uyarıların sayısına göre çeşitli uyarı rolleri atar. Bu roller, kullanıcıların geçmiş cezalarını ve statülerini yansıtır.
+
+  - **Kademeli Seviye Rolleri**: Üyelerin seviye atladıkça belirli roller kazanmasını sağlayan bir sistemdir. Seviye ilerlemelerini göstermek için kullanılır ve üyeleri daha fazla aktif olmaya teşvik eder.
+
+  | Log Kanalları            | Görsel                                                                                                 |
+  | ------------------------ | ------------------------------------------------------------------------------------------------------ |
+  | **Guard**                | ![image](https://github.com/user-attachments/assets/fe8fd7e5-79c6-489d-8ce7-0a62cd757c91)              |
+  | **Chat Guard**           | ![image](https://github.com/user-attachments/assets/7a3e260c-24b8-4d51-9e66-ce4e4fcbb0f6)              |
+  | **Server/Sunucu**        | ![image](https://github.com/user-attachments/assets/7f396a57-9268-4b11-9526-58915986ba7c)              |
+  | **Streamer**             | ![image](https://github.com/user-attachments/assets/0b56b665-9055-444e-a8bc-ba4745ea3875)              |
+  | **Başvuru**              | ![image](https://github.com/user-attachments/assets/ffc334b8-ed0e-4c68-b75c-3d559155076c)              |
+  | **Family**               | ![image](https://github.com/user-attachments/assets/c2c72209-ec15-4be1-bc3b-00089d441d62)              |
+  | **Mesaj**                | ![image](https://github.com/user-attachments/assets/ebb3af97-d91c-46ee-a4f7-ac6902d5d820)              |
+  | **Ses**                  | ![image](https://github.com/user-attachments/assets/8f5f7dc7-80e6-4d8a-ad37-183e8ac7653c)              |
+  | **Role**                 | ![image](https://github.com/user-attachments/assets/a61850fd-2a9a-4778-b6a2-f78a9e874e36)              |
+  | **Staff**                | ![image](https://github.com/user-attachments/assets/a659069a-a490-4eb7-bf08-f841c86df49a)              |
+  | **Orientation**          | ![image](https://github.com/user-attachments/assets/ceb58787-5fbf-48d1-9d4e-9265dee9a972)              |
+  | **Cezalar**              | ![image](https://github.com/user-attachments/assets/8f6863e0-6942-4c10-83bf-727735fedfce)              |
+
 </details>
 
-<details>
-  <summary>Stat Komutları</summary>
-
-| Komut                  | Resim                                                                                                  |
-| ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Stat Kategorisi | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6bb990e0-4798-4617-88e6-9588a23bdc81"> |
-| Detay Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/cd8fe935-4217-493a-9745-55089ee2a33e0"> |
-| Stat Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/99a54911-a7c2-4e2d-ad31-17fdad193081"> |
-| Stat Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/dbdc41ce-5aaa-4a87-b0ab-ab16aa0c43f9"> |
-| Invite Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b4c0efe2-2080-4a63-b01a-db8813f5e142"> |
-| Invite Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/27942869-72d2-415a-87dd-0f073edeeedf"> |
-| Top Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4079ca42-6560-46bb-b1cc-019b8a66eb73"> |
-| Level Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6b0544d3-6f33-40c8-9d53-f9747f276db8"> |
-| Level Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/26da1574-4c38-4d82-94d9-d203ee42b721"> |
-| Sunucu Stat Komutu (BOT SAHIPLERINE OZEL) | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/4e305103-f0aa-482c-a316-728be22c714d"> |
-</details>
-
-<details>
-  <summary>Extra Görseller</summary>
-
-| Komut                  | Resim                                                                                                  |
-| ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Bot Yönetim Komutu | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/b41dc7ab-062b-4b37-8cae-2e6d6fe03001"> |
-| Context Komutlalrı | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/6147cae2-b35e-47c6-9e93-6a41b413680b"> |
-| Log Kanalları | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/95938210-575d-40fa-8a0b-30747c588bf1"> |
-| Bot Dosyaları | <img alt="image" src="https://github.com/vante-dev/Vante-Bots/assets/136744983/536e8158-f32c-4c36-912c-1e05be1eb67b"> |
-</details>
-
-
-
-
-## 🐻‍❄️ Author & Lisence
-
+## 🐻‍❄️ Geliştirici ve Lisans
 
 Telif Hakkı © 2024 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev). Bu proje [GNU Genel Kamu Lisansı v3.0](https://github.com/vante-dev/Vante-Bots/blob/main/LICENSE) ile lisanslanmıştır.
