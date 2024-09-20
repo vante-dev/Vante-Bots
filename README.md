@@ -117,11 +117,11 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 
 | Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Hoşgeldin Mesajı**   | ![image](https://github.com/user-attachments/assets/5ba5065c-b9bd-49ab-82ca-5993baffe25c)              |
-| **Kayıt Komutu**       | ![image](https://github.com/user-attachments/assets/e593c21d-f21d-4ad0-8937-04bba01c9c61)              |
-| **Extra**              | ![image](https://github.com/user-attachments/assets/d9df5cea-f758-4a18-90e3-238c96767f47)              |
-| **İsimler**            | ![image](https://github.com/user-attachments/assets/9adf1c62-2f43-486b-8ee0-5e2385aa8181)              |
-| **teyitlerim**         | ![image](https://github.com/user-attachments/assets/71c3445b-37b6-44af-b1b7-71d52dcab1cf)              |
+| **Hoşgeldin Mesajı**   | ![image](https://github.com/user-attachments/assets/f4e531db-8a9e-405d-8be6-312e2c8f1d4a)              |
+| **Kayıt Komutu**       | ![image](https://github.com/user-attachments/assets/65bae219-da69-45fd-b206-762c2a71fd26)              |
+| **Extra**              | ![image](https://github.com/user-attachments/assets/52bbb463-42ea-46a8-87af-2057d25c6ca5)              |
+| **İsimler**            | ![image](https://github.com/user-attachments/assets/18d3dfed-11d4-46b5-aa40-1b70bcffa2e1)              |
+| **teyitlerim**         | ![image](https://github.com/user-attachments/assets/986c43b4-da73-4b78-b908-b56cd462ae61)              |
 
 </details>
 
