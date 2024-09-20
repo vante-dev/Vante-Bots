@@ -62,7 +62,7 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 
 | Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| **spotify**            | ![image](https://github.com/user-attachments/assets/4eddb05f-661b-4fb9-9ea2-2b8faecc7093)              |
+| **spotify**            | ![image](https://github.com/user-attachments/assets/2c48987d-b872-4284-919f-88c86d47ca56)              |
 | **ship**               | ![image](https://github.com/user-attachments/assets/e301b9bf-3458-4532-aa36-d4fd7bfffddd)              |
 | **ship ertu**          | ![image](https://github.com/user-attachments/assets/348a010d-6b8c-440d-8868-846400818284)              |
 | **stat**               | ![image](https://github.com/user-attachments/assets/1ae205ea-15cd-43ae-9da5-98ab582dfab7)              |
