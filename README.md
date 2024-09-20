@@ -93,14 +93,14 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 
 | Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| **af**                 | ![image](https://github.com/user-attachments/assets/8e2c7e52-aed7-460a-8741-2f9df0a8723b)              |
-| **aktifcezalar**       | ![image](https://github.com/user-attachments/assets/6898a2f9-c79d-4773-bfe6-3325f9da0223)              |
-| **Sicil**              | ![image](https://github.com/user-attachments/assets/a7e2d4b4-c6e7-4c2c-b5e6-ecb335156b4b)              |
-| **Sicil Extra**        | ![image](https://github.com/user-attachments/assets/cbb4a0a2-673f-4cd1-98d6-a8bdbe73f467)              |
-| **Ceza Text**          | ![image](https://github.com/user-attachments/assets/4058330c-3378-46ff-8e0b-d552c5ef18b2)              |
-| **Ceza Log**           | ![image](https://github.com/user-attachments/assets/f6f36186-f678-4bff-95d3-948ef4fbdf44)              |
-| **Dm Log**             | ![image](https://github.com/user-attachments/assets/4a2fe8ce-88b9-48d1-b47b-f792462ecdc0)              |
-| **Bitiş Log**          | ![image](https://github.com/user-attachments/assets/6790f7dd-fb30-4d92-9198-3bae315feb6f)              |
+| **af**                 | ![image](https://github.com/user-attachments/assets/12513415-e6c6-417f-8d69-4929123f4ac5)              |
+| **aktifcezalar**       | ![image](https://github.com/user-attachments/assets/d1df5f40-a676-4778-b78f-d30cbd5050f6)              |
+| **Sicil**              | ![image](https://github.com/user-attachments/assets/39bafedb-7744-4a2e-9cc1-726d9d8bcf6b)              |
+| **Sicil Extra**        | ![image](https://github.com/user-attachments/assets/ff94f904-7e72-4148-ab37-1aa4acc9acb6)              |
+| **Ceza Text**          | ![image](https://github.com/user-attachments/assets/357fbf5f-82aa-4213-9678-11898080a9a9)              |
+| **Ceza Log**           | ![image](https://github.com/user-attachments/assets/f6c9bccb-be9b-40d6-8178-6c677f3182f7)              |
+| **Dm Log**             | ![image](https://github.com/user-attachments/assets/de45b512-13bb-4113-8a61-4ff03e7c47fb)              |
+| **Bitiş Log**          | ![image](https://github.com/user-attachments/assets/2def178c-6020-4e17-947c-c572701f57d6)              |
 
 </details>
 
