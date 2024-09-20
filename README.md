@@ -206,18 +206,18 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 
 | Komut                    | Görsel                                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------------ |
-| **Otorol**               | ![image](https://github.com/user-attachments/assets/42a20f46-b6ef-47cf-8dcc-1492427e9ce5)              |
-| **Fastlogin**            | ![image](https://github.com/user-attachments/assets/dd1160ce-e051-48bb-ad4f-fd56952d09f7)              |
-| **Leaderboard**          | ![image](https://github.com/user-attachments/assets/deb61cb2-25aa-4d86-8b63-c3894c62bce4)              |
-| **Memberpanel**          | ![image](https://github.com/user-attachments/assets/e8484dae-26b0-4f21-85d7-1c499d0964ff)              |
-| **Kısayollar**           | ![image](https://github.com/user-attachments/assets/ab6793a6-7b85-44d2-90ac-6d226d1f1224)              |
-| **Streamerpanel**        | ![image](https://github.com/user-attachments/assets/88f377c9-8ff9-4279-b472-7461e07abce5)              |
-| **Görevpanel**           | ![image](https://github.com/user-attachments/assets/b1e176af-99ad-4f89-a431-9593a2af1516)              |
-| **Ayarlar**              | ![image](https://github.com/user-attachments/assets/24bb25b2-d56d-405b-b81f-9027274d3be7)              |
-| **Ayarlar Seçim**        | ![image](https://github.com/user-attachments/assets/129d0857-4f65-4543-b5ce-0c9ce86d89ff)              |
-| **Setup**                | ![image](https://github.com/user-attachments/assets/ae0e8daa-6838-484f-ba54-624758eefd70)              |
-| **Secretroom**           | ![image](https://github.com/user-attachments/assets/5e4b8069-e504-4d79-b69b-16f2f81ee8f1)              |
-| **Secretroom** (Yönetim) | ![image](https://github.com/user-attachments/assets/df24f47d-9aa1-4770-9740-7c3596e7e07e)              |
+| **Otorol**               | ![image](https://github.com/user-attachments/assets/2e350f07-12d1-442a-b0f0-cb41e6b49ddc)              |
+| **Fastlogin**            | ![image](https://github.com/user-attachments/assets/9837f4cc-33f9-4eb3-b215-e67d4abf3e18)              |
+| **Leaderboard**          | ![image](https://github.com/user-attachments/assets/fec8d80e-76b0-4bc3-af8d-6abbfad3954d)              |
+| **Memberpanel**          | ![image](https://github.com/user-attachments/assets/f6ffde05-82e4-4563-ac6d-46d4d9c62b3a)              |
+| **Kısayollar**           | ![image](https://github.com/user-attachments/assets/648174bb-6c07-40cf-a6a3-a29d99100715)              |
+| **Streamerpanel**        | ![image](https://github.com/user-attachments/assets/f3e1ca9f-aedf-4c3a-97af-17edc2a457ae)              |
+| **Görevpanel**           | ![image](https://github.com/user-attachments/assets/180c6e17-2777-44c2-a60f-e506703a6db9)              |
+| **Ayarlar**              | ![image](https://github.com/user-attachments/assets/b79ca41e-f88a-4c22-8ae8-55bc469758b5)              |
+| **Ayarlar Seçim**        | ![image](https://github.com/user-attachments/assets/971fc981-866f-480b-a4c1-b6f09416f68d)              |
+| **Setup**                | ![image](https://github.com/user-attachments/assets/ee8fb68d-4ea3-40e7-88c4-c5be89041d3d)              |
+| **Secretroom**           | ![image](https://github.com/user-attachments/assets/409b7719-00db-40a0-8d8f-202055f63ff7)              |
+| **Secretroom** (Yönetim) | ![image](https://github.com/user-attachments/assets/4c9b1b5a-ef34-4288-afdc-066729248404)              |
 
 </details>
 
@@ -262,18 +262,18 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 
   | Log Kanalları            | Görsel                                                                                                 |
   | ------------------------ | ------------------------------------------------------------------------------------------------------ |
-  | **Guard**                | ![image](https://github.com/user-attachments/assets/fe8fd7e5-79c6-489d-8ce7-0a62cd757c91)              |
-  | **Chat Guard**           | ![image](https://github.com/user-attachments/assets/7a3e260c-24b8-4d51-9e66-ce4e4fcbb0f6)              |
-  | **Server/Sunucu**        | ![image](https://github.com/user-attachments/assets/7f396a57-9268-4b11-9526-58915986ba7c)              |
-  | **Streamer**             | ![image](https://github.com/user-attachments/assets/0b56b665-9055-444e-a8bc-ba4745ea3875)              |
-  | **Başvuru**              | ![image](https://github.com/user-attachments/assets/ffc334b8-ed0e-4c68-b75c-3d559155076c)              |
-  | **Family**               | ![image](https://github.com/user-attachments/assets/c2c72209-ec15-4be1-bc3b-00089d441d62)              |
-  | **Mesaj**                | ![image](https://github.com/user-attachments/assets/ebb3af97-d91c-46ee-a4f7-ac6902d5d820)              |
-  | **Ses**                  | ![image](https://github.com/user-attachments/assets/8f5f7dc7-80e6-4d8a-ad37-183e8ac7653c)              |
-  | **Role**                 | ![image](https://github.com/user-attachments/assets/a61850fd-2a9a-4778-b6a2-f78a9e874e36)              |
-  | **Staff**                | ![image](https://github.com/user-attachments/assets/a659069a-a490-4eb7-bf08-f841c86df49a)              |
-  | **Orientation**          | ![image](https://github.com/user-attachments/assets/ceb58787-5fbf-48d1-9d4e-9265dee9a972)              |
-  | **Cezalar**              | ![image](https://github.com/user-attachments/assets/8f6863e0-6942-4c10-83bf-727735fedfce)              |
+  | **Guard**                | ![image](https://github.com/user-attachments/assets/72ae2451-d57c-4bea-9ff3-48aad511cf4d)              |
+  | **Chat Guard**           | ![image](https://github.com/user-attachments/assets/629943a2-7ad0-4bc9-9613-c4521a58dfeb)              |
+  | **Server/Sunucu**        | ![image](https://github.com/user-attachments/assets/ce508fa4-4365-401b-8b89-5224df8d8906)              |
+  | **Streamer**             | ![image](https://github.com/user-attachments/assets/b166caa8-2cc2-480a-affa-d00ab9110fd8)              |
+  | **Başvuru**              | ![image](https://github.com/user-attachments/assets/6e4a7bfc-ec40-4619-8a84-3a88178fe77f)              |
+  | **Family**               | ![image](https://github.com/user-attachments/assets/215bc12f-eac7-478a-97f9-76dd0ae31017)              |
+  | **Mesaj**                | ![image](https://github.com/user-attachments/assets/1b720614-0f7a-4439-9652-9cc3e2c6bc0f)              |
+  | **Ses**                  | ![image](https://github.com/user-attachments/assets/59cc0b43-3bbe-444c-b6d4-198a5adfcb12)              |
+  | **Role**                 | ![image](https://github.com/user-attachments/assets/a24f73c0-26b8-4b82-b791-54660b777a32)              |
+  | **Staff**                | ![image](https://github.com/user-attachments/assets/38820319-0dcf-43fa-9422-3ffe81b9f7f5)              |
+  | **Orientation**          | ![image](https://github.com/user-attachments/assets/79f2b059-a5b1-4c26-b8fc-866a7e49249c)              |
+  | **Cezalar**              | ![image](https://github.com/user-attachments/assets/79de747b-9fed-4618-bf90-b69f603deca0)              |
 
 </details>
 
