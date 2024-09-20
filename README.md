@@ -63,13 +63,13 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 | Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | **spotify**            | ![image](https://github.com/user-attachments/assets/2c48987d-b872-4284-919f-88c86d47ca56)              |
-| **ship**               | ![image](https://github.com/user-attachments/assets/e301b9bf-3458-4532-aa36-d4fd7bfffddd)              |
-| **ship ertu**          | ![image](https://github.com/user-attachments/assets/348a010d-6b8c-440d-8868-846400818284)              |
-| **stat**               | ![image](https://github.com/user-attachments/assets/1ae205ea-15cd-43ae-9da5-98ab582dfab7)              |
-| **rstat**              | ![image](https://github.com/user-attachments/assets/e027b696-ad65-469b-bfa1-6e39372b4e48)              |
-| **invite**             | ![image](https://github.com/user-attachments/assets/eac522c1-a7af-4b3d-be00-1b97a18a36dc)              |
-| **arkadaşlarım**       | ![image](https://github.com/user-attachments/assets/e62a860f-b3f6-4679-be3c-f5a7900f9963)              |
-| **top**                | ![image](https://github.com/user-attachments/assets/3d3b6483-91fe-4d3b-bd17-759bc92d11d8)              |
+| **ship**               | ![image](https://github.com/user-attachments/assets/4216d66a-4ed3-4cac-bd5b-b82503e91256)              |
+| **ship ertu**          | ![image](https://github.com/user-attachments/assets/a7a54c0e-0b71-4d0b-82a4-7e38cc921173)              |
+| **stat**               | ![image](https://github.com/user-attachments/assets/a338861e-619a-48f9-b1c8-a78c52897b08)              |
+| **rstat**              | ![image](https://github.com/user-attachments/assets/62e857b7-8be8-405e-a045-df16a302034f)              |
+| **invite**             | ![image](https://github.com/user-attachments/assets/95af730a-9943-4d52-9920-b7cbee8aedba)              |
+| **arkadaşlarım**       | ![image](https://github.com/user-attachments/assets/43ba8766-7c70-471e-a777-c0678729a896)              |
+| **top**                | ![image](https://github.com/user-attachments/assets/037571c0-3399-410e-acd6-b646edbb91b9)              |
 
 </details>
 
