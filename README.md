@@ -150,11 +150,11 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 
 | Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Giveaway**           | ![image](https://github.com/user-attachments/assets/82835634-5c0a-4c84-b497-a293b0a62300)              |
-| **say** (canlı)        | ![image](https://github.com/user-attachments/assets/b51ddb52-6b45-4c6e-8a28-bbbc91be2cb3)              |
-| **roldenetim**         | ![image](https://github.com/user-attachments/assets/c95d58af-94d9-4a93-ba3e-aa08c913549c)              |
-| **rol**                | ![image](https://github.com/user-attachments/assets/3e14ff83-c578-4af3-92fb-414458709817)              |
-| **vlog**               | ![image](https://github.com/user-attachments/assets/5d821570-9a0f-4532-a3ea-9a76c287ac8f)              |
+| **Giveaway**           | ![image](https://github.com/user-attachments/assets/47def86a-bb2d-4673-b6bf-6dfccf602811)              |
+| **say** (canlı)        | ![image](https://github.com/user-attachments/assets/d90cb5b5-15ac-4230-b85c-77065af7187a)              |
+| **roldenetim**         | ![image](https://github.com/user-attachments/assets/80eac283-504a-479e-b538-384f8664a85e)              |
+| **rol**                | ![image](https://github.com/user-attachments/assets/3f41e3e0-1861-4ffa-a969-f10ddbf3b844)              |
+| **vlog**               | ![image](https://github.com/user-attachments/assets/277b436a-2172-4e4b-8d38-527a01e618ca)              |
 
 </details>
 
@@ -176,12 +176,12 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 
 | Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Sorumluluk Paneli**  | ![image](https://github.com/user-attachments/assets/17010369-8b72-4ccc-8527-157fee5574f8)              |
-| **Görev Paneli**       | ![image](https://github.com/user-attachments/assets/38dff932-b6bc-4c31-b31c-8f400dbec90a)              |
-| **Görev Seçme**        | ![image](https://github.com/user-attachments/assets/dea26fd7-66b9-4a44-b577-d9250729e609)              |
-| **Rozet**              | ![image](https://github.com/user-attachments/assets/897e221a-323e-4ddd-8203-f4f338816ca2)              |
-| **Puan** (1. Sayfa)    | ![image](https://github.com/user-attachments/assets/2423258d-efce-4570-9664-9acf9836468c)              |
-| **Puan** (2. Sayfa)    | ![image](https://github.com/user-attachments/assets/e5e1bbc2-641a-480c-a156-934270e3a7eb)              |
+| **Sorumluluk Paneli**  | ![image](https://github.com/user-attachments/assets/4d8e2b44-5fae-4208-8611-4a35d3fc4b09)              |
+| **Görev Paneli**       | ![image](https://github.com/user-attachments/assets/e7d5fed9-b321-4529-a704-1ab540ffff1c)              |
+| **Görev Seçme**        | ![image](https://github.com/user-attachments/assets/fe740fd8-d557-4344-b64d-7d990c8c6bf0)              |
+| **Rozet**              | ![image](https://github.com/user-attachments/assets/deae1a70-6592-43b2-9de1-dac83f48d1cf)              |
+| **Puan** (1. Sayfa)    | ![image](https://github.com/user-attachments/assets/cea4bab7-0eb9-4a71-8bf8-417956d2c678)              |
+| **Puan** (2. Sayfa)    | ![image](https://github.com/user-attachments/assets/e3eb74ab-75dc-453f-bd9e-24e7831e5233)              |
 
 </details>
 
