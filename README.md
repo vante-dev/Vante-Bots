@@ -279,6 +279,14 @@ Vante bots'u kurmadan önce kurulumunuzun bu önkoşulları karşıladığından
 
 </details>
 
+<details>
+  <summary>Bot Dosyası Ve Configi</summary>
+  
+| Tip                      | Görsel                                                                                                 |
+| ------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Dosyalar**             | ![image](https://github.com/user-attachments/assets/62d1a9bd-76f0-41bf-805b-71e4ff1d5017)              |
+| **Config (ENV)**         | ![image](https://github.com/user-attachments/assets/de3366a4-1069-4e8c-8757-62b965f7b33f)              |
+
 ## 🐻‍❄️ Geliştirici ve Lisans
 
 Telif Hakkı © 2024 [Kaan 'Vante' Karahanlı](https://github.com/vante-dev). Bu proje [GNU Genel Kamu Lisansı v3.0](https://github.com/vante-dev/Vante-Bots/blob/main/LICENSE) ile lisanslanmıştır.
