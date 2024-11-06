@@ -14,8 +14,6 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, botu paylaşacağım. Bot g
 - 💯 **150+ Komut:** Sunucunuzun deneyimini zenginleştirmek için 150'den fazla çok yönlü komuta erişin.
 - 📚 **Kolay Barındırma:** Vante Bots'u sunucularınızda zahmetsizce barındırın ve 7/24 çevrimiçi tutun.
 
-![image](https://github.com/user-attachments/assets/7ccd17b3-a07c-4261-a09d-6f886076e1ff)
-
 ## 🖥️ Hosting
 
 > [!IMPORTANT]
