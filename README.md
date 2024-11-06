@@ -17,7 +17,7 @@ Merhaba, Bu projeye 150 yıldız (star) geldiğinde, botu paylaşacağım. Bot g
 ## 🖥️ Hosting
 
 > [!IMPORTANT]
-> **Bu proje yeni başlayanlar için değildir.** Node.js, Prisma, Discord.js veya bu projede kullanılan diğer teknolojilere aşina değilseniz Vante Botsu kendiniz kurmamalısınız!
+> **Bu proje yeni başlayanlar için değildir.** Node.js, Drizzle, Discord.js veya bu projede kullanılan diğer teknolojilere aşina değilseniz Vante Botsu kendiniz kurmamalısınız!
 
 ### 📝 Kurulum
 
