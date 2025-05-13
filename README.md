@@ -4,4 +4,4 @@
 
 ## ✨ Proje Hakkında Bilgi
 
-Merhaba yeni bir bot üzerinde calışıyorum: [https://kaanxsrd](https://github.com/kaanxsrd/public-bots)
+Merhaba yeni bir bot üzerinde calışıyorum: [repoya göz at](https://github.com/kaanxsrd/public-bots)
